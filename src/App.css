@@ -1,0 +1,98 @@
+ #root {
+ 
+  width: 100vw;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+
+
+}
+
+button{
+
+  margin-left:1%;
+
+}
+
+.cont{
+
+  display: none;
+
+}
+
+.cont.load{
+
+  display:block;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.cont.load#imgDiv{
+
+  margin-top: 1%;
+
+  width: 90vw;
+  height: auto;
+
+  display: inline-block;
+  text-align: center;
+
+  border-radius: 50%;
+
+}
+
+.cont.load #img{
+
+  display: block;
+  height: 15vw;
+  width: 15vw;
+
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 35vh;
+
+
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  border-radius: 60%; 
+}
+
+.cont.load p{
+
+  margin-top: 0%;
+
+}
+
+.cont.load #github{
+
+  margin-top: 1%;
+  height: 7vh;
+
+}
+
+.cont.load #repos{
+
+  text-align: center;
+  border: 1px solid white;
+
+  margin: 0 auto;
+  margin-bottom: 2%;
+  max-width: 100vw;
+
+}
+
+.cont.load #repos td{
+  
+  
+  border: 1px solid white;
+  padding: 0.5%;
+} 
+
+.cont.load #repos td a{
+  
+  display: inline-block;
+
+} 
